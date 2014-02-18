@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>What's New on SITE NAME</title>
+<link>URL OF THIS FILE</link>
+<description>DESCRIPTION OF THIS FILE</description>
+<atom:link href="URL OF THIS FILE" rel="self" type="application/rss+xml" />
+</channel>
+</rss>
