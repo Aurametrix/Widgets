@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+    <Module> 
+        <ModulePrefs title="Know Thy Health"/>
+            <Content type="html">
+                <![CDATA[ 
+<a data-pin-do="embedBoard" href="http://www.pinterest.com/Aurametrix/know-thy-health/">Follow Know Thy Health on Pinterest.</a>
+<script type="text/javascript" async src="//assets.pinterest.com/js/pinit.js"></script>
+                ]]>
+            </Content>
+    </Module>
