@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+    <Module> 
+        <ModulePrefs title="Aurametrix' Pinterest"/>
+            <Content type="html">
+                <![CDATA[ 
+<a data-pin-do="embedUser" href="http://www.pinterest.com/Aurametrix/" data-pin-scale-width="80" data-pin-scale-height="320" data-pin-board-width="400">Visit Aurametrix Inc.'s profile on Pinterest.</a>
+                ]]>
+            </Content>
+    </Module>
